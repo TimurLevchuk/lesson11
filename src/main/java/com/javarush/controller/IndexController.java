@@ -1,6 +1,7 @@
-package com.javarush;
+package com.javarush.controller;
 
 
+import com.javarush.model.User;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;
